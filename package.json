@@ -4,6 +4,7 @@
   "description": "This is a super mario game in vanilla JS",
   "main": "index.js",
   "scripts": {
+    "start": "serve ./public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RizwanAhmad365/super_mario/issues"
   },
-  "homepage": "https://github.com/RizwanAhmad365/super_mario#readme"
+  "homepage": "https://github.com/RizwanAhmad365/super_mario#readme",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
 }

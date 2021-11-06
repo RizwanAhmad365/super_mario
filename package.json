@@ -1,0 +1,22 @@
+{
+  "name": "super_mario_coding",
+  "version": "1.0.0",
+  "description": "This is a super mario game in vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RizwanAhmad365/super_mario.git"
+  },
+  "keywords": [
+    "super_mario_vanilla_js"
+  ],
+  "author": "Meth Meth Method - followed by Rizwan Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RizwanAhmad365/super_mario/issues"
+  },
+  "homepage": "https://github.com/RizwanAhmad365/super_mario#readme"
+}
